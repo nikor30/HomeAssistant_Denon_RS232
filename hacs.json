@@ -1,0 +1,6 @@
+{
+  "name": "Denon RS232",
+  "content_in_root": false,
+  "domains": ["denon232"],
+  "render_readme": true
+}

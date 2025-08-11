@@ -1,0 +1,9 @@
+{
+  "domain": "denon232",
+  "name": "Denon RS232",
+  "documentation": "https://github.com/nikor30/HomeAssistant_Denon_RS232",
+  "requirements": ["pyserial>=3.5"],
+  "codeowners": ["@nikor30"],
+  "version": "1.0.0",
+  "iot_class": "local_polling"
+}
